@@ -2,16 +2,16 @@
     'use strict';
 
     angular.module('web').constant('appConfig', {
-        apiDomain: 'https://nodes.wavesnodes.com',
+        apiDomain: 'https://sg.katalystcoin.com',
         blockchainName: 'Mainnet',
-        title: 'Waves Explorer',
+        title: 'Katalyst Explorer',
         nodes: [{
-            url: 'https://nodes.wavesnodes.com',
-            maintainer: 'Waves'
+            url: 'https://sg.katalystcoin.com',
+            maintainer: 'Katalyst'
         }],
         peerExplorer: {
-            url: 'https://testnet.wavesexplorer.com',
-            title: 'TESTNET Explorer'
+            url: 'https://sg.katalystcoin.com',
+            title: 'Public Node'
         },
         wallet: {
             url: 'https://beta.wavesplatform.com',
