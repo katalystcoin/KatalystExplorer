@@ -14,7 +14,7 @@
             title: 'Public Node'
         },
         wallet: {
-            url: 'https://beta.wavesplatform.com',
+            url: 'https://client.katalystcoin.com',
             title: 'Wallet'
         }
     });
