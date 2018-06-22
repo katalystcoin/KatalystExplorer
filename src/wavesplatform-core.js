@@ -703,15 +703,7 @@ var Currency = (function () {
         precision: 8,
         verified: true
     });
-    // TODO: refactor code: i.e. change the appropriate Currency.WAVES into Currency.KDEX without breaking anything
-    var KDEX = new Currency({
-        id: '',
-        displayName: 'KDEX-NEW',
-        shortName: 'KDEX-NEW',
-        precision: 8,
-        verified: true
-    });
-
+    
     var BTC = new Currency({
         id: '8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3DfPuiXrURJ4AJS',
         displayName: 'Bitcoin',
