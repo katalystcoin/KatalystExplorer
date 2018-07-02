@@ -14,7 +14,7 @@
             title: 'Public Node'
         },
         wallet: {
-            url: 'https://client.katalystcoin.com',
+            url: 'https://katalyst.exchange/',
             title: 'Wallet'
         }
     });
